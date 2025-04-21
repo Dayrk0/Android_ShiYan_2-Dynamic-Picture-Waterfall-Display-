@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 添加这两个颜色定义 -->
+    <color name="red">#FF0000</color>
+    <color name="gray">#808080</color>
+
+    <!-- 保留其他已有颜色 -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+</resources>
